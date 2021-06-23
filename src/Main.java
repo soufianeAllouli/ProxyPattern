@@ -10,6 +10,7 @@ public class Main {
         presantation.afficherPow2(9);
         presantation.afficherPow2(9);
         presantation.afficherPow2(12);
+        presantation.afficherPow2(12);
 
     }
 }
